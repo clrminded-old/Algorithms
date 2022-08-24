@@ -56,3 +56,5 @@ void printArray(int A[], int n)
  * When declaring an array and not initializing it, the compiler will
  * fill the array up with garbage values.
  */
+ 
+ 
